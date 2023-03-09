@@ -9,7 +9,7 @@ public class FPStoryController : MonoBehaviour
 {
     public float speed = 7.5f;
     public float jumpSpeed = 8.0f;
-    public float gravity = 20.0f;
+    public float gravity = 1000.0f;
     public Camera playerCamera;
     public float lookSpeed = 2.0f;
     public float lookXLimit = 60.0f;
